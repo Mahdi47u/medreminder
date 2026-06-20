@@ -1,0 +1,43 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+# Generated Android build outputs
+app/build/
+*.apk
+
+# Generated report/PDF/LaTeX build outputs
+report*.pdf
+report_rendered.html
+*_check.png
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Local browser/render temp folders
+chrome-temp-profile*/
+
+# Locally captured/generated report screenshots
+screenshots/current_*.jpg
+screenshots/daneshgah_logo.png
+
+# README-only publishing mode
+# This project folder is inside a larger Git repo on this machine.
+# Keep only README.md and this .gitignore visible to Git.
+*
+!README.md
+!.gitignore
