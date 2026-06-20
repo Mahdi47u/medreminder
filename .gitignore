@@ -39,4 +39,12 @@ chrome-temp-profile*/
 
 # Locally captured/generated report screenshots
 screenshots/current_*.jpg
+!screenshots/current_signin.jpg
+!screenshots/current_signup.jpg
+!screenshots/current_profile.jpg
+!screenshots/current_add_medicine.jpg
+!screenshots/current_medicine_list.jpg
+!screenshots/current_medicine_details.jpg
+!screenshots/current_status.jpg
+!screenshots/current_qr_scan_rotated.jpg
 screenshots/daneshgah_logo.png
